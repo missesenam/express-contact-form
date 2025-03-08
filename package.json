@@ -1,7 +1,7 @@
 {
   "name": "express-contact-form",
   "version": "1.0.0",
-  "description": "body parser lesson",
+  "description": "contact form with express",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
